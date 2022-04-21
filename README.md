@@ -1,5 +1,6 @@
 RetroPie-Setup
 ==============
+This script is modified to accelerate source code in China.
 
 General Usage
 -------------
